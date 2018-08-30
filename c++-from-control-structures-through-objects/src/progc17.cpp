@@ -5,6 +5,7 @@
  * if program break press ctrl-z, ctrl-d, ctrl-c
 */
 
+// IMPORTANT: improved version here: https://github.com/BenTibnam/random-programs/blob/master/math-tutor.cpp
 #include<iostream>
 #include<stdlib.h>
 #include<ctime>
